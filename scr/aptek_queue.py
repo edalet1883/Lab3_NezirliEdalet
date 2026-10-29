@@ -44,7 +44,7 @@ if __name__ == "__main__":
         elif secim == "3":
             siyahi_goster()
         elif secim == "4":
-            print("Proqram dayandırıldı.")
+            print("Proqram dayandırıldı..")
             break
         else:
             print("Yanlış seçim! 1-4 arası rəqəm daxil edin.")
